@@ -1,3 +1,3 @@
 #!/bin/bash
-git log --pretty=format:"%H" -1
+git log --pretty=format:"%H" -5
 
